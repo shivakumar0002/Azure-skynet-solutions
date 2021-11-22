@@ -3,6 +3,7 @@
 
 ##HAPPY-LEARNING
 
+Read the steps below you can have idea of the project 
 
 On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. Translated 32% survival rate.
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew.

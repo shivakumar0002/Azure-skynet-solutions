@@ -28,9 +28,9 @@ Charting. How to select the right visualization plots and charts depending on na
 
 User comments
 
-Combine training and test data for certain operations like converting titles across dataset to numerical values. (thanks @Sharan Naribole)
-Correct observation - nearly 30% of the passengers had siblings and/or spouses aboard. (thanks @Reinhard)
-Correctly interpreting logistic regresssion coefficients. (thanks @Reinhard)
+Combine training and test data for certain operations like converting titles across dataset to numerical values. 
+Correct observation - nearly 30% of the passengers had siblings and/or spouses aboard. 
+Correctly interpreting logistic regresssion coefficients. 
 Porting issues
 
 Specify plot dimensions, bring legend into plot.
